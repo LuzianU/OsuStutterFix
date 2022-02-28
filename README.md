@@ -24,3 +24,6 @@ Before             |  After
 - Run OsuStutterFix.jar
 - Wait until it's finished
 - Play with improved performance!
+
+# Help
+Feel free to let [me](https://osu.ppy.sh/users/7350956) know if you need any help
